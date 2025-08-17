@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+    margin: 0;
+    background-color:blue;
+    
+}
+.wrapper {
+  
+   
+    
+}
+canvas {
+    margin: 0;
+  border: thick double #ffdcee;
+}
+
+
